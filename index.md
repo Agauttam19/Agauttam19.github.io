@@ -1,11 +1,11 @@
 # Anmol Gauttam
-### **Electronics & Communication Engineer • Embedded Systems & Autonomous Tech**
+### **Electronics & Communication Engineer • Hardware & Software Solutions**
 📍 Delhi/Patiala, India • ✉️ [agauttam_be23@thapar.edu](mailto:agauttam_be23@thapar.edu) • 🔗 [LinkedIn](https://www.linkedin.com/in/anmol-gauttam-2571b7348)
 
 ---
 
 ## 🚀 About Me
-I am an Electronics and Communication Engineering undergraduate passionate about the intersection of hardware and intelligent software. My expertise spans **FPGA-based system design, embedded microcontrollers, 5G V2X communication, and AI/ML applications**. I thrive on building scalable, low-latency technology solutions that bridge the gap between physical hardware and cloud/network infrastructure.
+I am an Electronics and Communication Engineering undergraduate passionate about the intersection of hardware and intelligent software. My expertise spans **system architecture, hardware-software integration, AI/ML applications, and next-gen communications**. I thrive on building scalable, low-latency technology solutions that bridge the gap between physical systems and cloud/network infrastructure.
 
 ---
 
@@ -14,7 +14,7 @@ I am an Electronics and Communication Engineering undergraduate passionate about
 | Category | Skills & Technologies |
 | :--- | :--- |
 | **Programming** | Python, C, C++, Verilog, MATLAB, ARM Assembly |
-| **Hardware & Embedded** | Microcontroller Programming (ESP32, Arduino), ARM Architecture, Keil uVision, LTspice |
+| **Hardware & Systems** | Microcontroller Programming (ESP32, Arduino), ARM Architecture, Keil uVision, LTspice |
 | **EDA & Software Tools** | Vivado, Xilinx ISE, AutoCAD, VS Code, Power BI, Google Colab |
 | **Core Expertise** | Data Structures & Algorithms, OOPs, DBMS, IoT Systems, Computer Vision, Wireless/Analog/Digital Communication |
 
@@ -67,7 +67,7 @@ I am an Electronics and Communication Engineering undergraduate passionate about
 ---
 
 ## 🤝 Let's Connect!
-I am always open to collaborating on innovative projects in robotics, IoT, embedded systems, and next-gen communications. 
+I am always open to collaborating on innovative projects involving emerging technologies, scalable software solutions, IoT, and system design. 
 
 *   **Email:** [agauttam_be23@thapar.edu](mailto:agauttam_be23@thapar.edu)
 *   **LinkedIn:** [linkedin.com/in/anmol-gauttam-2571b7348](https://www.linkedin.com/in/anmol-gauttam-2571b7348)
