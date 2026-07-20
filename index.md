@@ -137,9 +137,9 @@
 
   <hr>
 
-  <h2>Education</h2>
+ <h2>Education</h2>
   <ul>
-    <li><strong>B.Eng. in Electronics and Communication Engineering</strong>
+    <li><strong>B.E. in Electronics and Communication Engineering</strong>
       <ul>
         <li>Thapar Institute of Engineering and Technology • <em>Expected May 2027 (CGPA: 8.22 / 10.0)</em></li>
       </ul>
@@ -147,6 +147,11 @@
     <li><strong>Higher Secondary Certificate (Class 12, CBSE)</strong>
       <ul>
         <li>Government Model Senior Secondary School • <em>May 2023 (87.8%)</em></li>
+      </ul>
+    </li>
+    <li><strong>Secondary School Certificate (Class 10, CBSE)</strong>
+      <ul>
+        <li>Bhavan Vidyalaya • <em>May 2021 (98.6%)</em></li>
       </ul>
     </li>
   </ul>
